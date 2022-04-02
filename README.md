@@ -1,4 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/RAMAOT/heroku1)
+
 # NoVNC-for-Heroku
 **Running a VNC server + NoVNC client on Heroku app**
 
@@ -43,4 +45,4 @@ You will be asked for the application name. After you enter the application name
 
 
 I JUST EDITIED SOME CODES I AM NOT A OWNER OF THIS FILES
-~KING REMIX
+~RAMAOT
